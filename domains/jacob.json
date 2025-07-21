@@ -4,10 +4,7 @@
     "email": "jacobstetup@tuta.io"
   },
   "records": {
-    "NS": [
-      "dell.ns.cloudflare.com",
-      "duke.ns.cloudflare.com"
-    ]
+    "CNAME": "jacobrdale.github.io"
   },
   "proxied": false
 }
